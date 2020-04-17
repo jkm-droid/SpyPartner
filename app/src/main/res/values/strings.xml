@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SpyPartner</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="by_jmtechnologies">By:jmtechnologies</string>
+    <string name="username">Username</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">LOGIN</string>
+    <string name="enter">ENTER</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="read">READ</string>
+    <string name="save_data">SAVE DATA</string>
+    <string name="read_data">READ DATA</string>
+    <string name="enter_an_item">Enter an Item</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="loading">Loading...</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="logout">LOGOUT</string>
+    <string name="delete">DELETE</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
